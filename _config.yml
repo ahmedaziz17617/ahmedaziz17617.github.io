@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  # github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/muhammad-ahmed-aziz-9a81211a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhQNgPqrZT4ytFpnTHkMmLQ%3D%3D
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
