@@ -1,11 +1,8 @@
 ---
-layout: page
+layout: default
 title: Professional Experience
 permalink: /professionalExperience/
 ---
-
-
-{% include base_path %}
 
 <style>
     .page-content {
