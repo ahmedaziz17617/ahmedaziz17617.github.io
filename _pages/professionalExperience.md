@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: Professional Experience
 permalink: /professionalExperience/
 ---
@@ -14,13 +14,15 @@ permalink: /professionalExperience/
 
 <div class="page-content">
 
-# Job 1
+    <h1>Job 1</h1>
 
-**Summary about the company** [Company Website](https://www.company-website.com)
+    <p><strong>Summary about the company</strong> <a href="https://www.company-website.com">Company Website</a></p>
 
-*My Role*
+    <p><em>My Roleeeee</em></p>
 
-- Bullet point 1 about what I did there
-- Bullet point 2 about what I did there
+    <ul>
+        <li>Bullet point 1 about what I did there</li>
+        <li>Bullet point 2 about what I did there</li>
+    </ul>
 
 </div>
