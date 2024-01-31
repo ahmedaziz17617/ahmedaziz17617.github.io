@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Professional Experience
+# title: Professional Experience
 permalink: /professionalExperience/
 ---
 
