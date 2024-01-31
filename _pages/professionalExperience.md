@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: Professional Experience
 permalink: /professionalExperience/
 ---
@@ -7,6 +7,8 @@ permalink: /professionalExperience/
 <style>
     .page-content {
         margin: 20px;
+        display: flex;
+        flex-direction: column;
     }
 </style>
 
