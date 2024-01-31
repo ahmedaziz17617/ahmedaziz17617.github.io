@@ -4,6 +4,8 @@ title: Professional Experience
 permalink: /professionalExperience/
 ---
 
+{% include base_path %}
+
 # Job 1
 
 **Summary about the company** [Company Website](https://www.company-website.com)
