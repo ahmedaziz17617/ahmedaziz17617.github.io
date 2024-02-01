@@ -1,7 +1,7 @@
 ---
 layout: archive
 # title: Professional Experience
-permalink: /professionalExperience/
+permalink: /projects/
 ---
 
 <style>
