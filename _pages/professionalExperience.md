@@ -41,7 +41,17 @@ permalink: /professionalExperience/
         <li>The model is fine tuned on internal use cases such as summary generation.</li>
         <li>All of the above essentially allows the model to function as an AI analyst that helps the user throughout the portal in different use cases.</li>
     </ul>
-
+    <h1 style="margin-bottom: 5px;">Pakwheels.com</h1>
+    <p style="margin-bottom: 0px; margin-top: 0px;"><em>Software Engineer</em></p>
+    <a href="https://www.pakwheels.com/">PakWheels.com</a>
+    <p style="margin-bottom: 5px; margin-top: 5px">PakWheels.com is the largest online marketplace for automobiles in Pakistan. It facilitates the user in the buying and selling process by providing effective tools such as car inspection, sell it for me and more. This is one of the largest startups in Pakistan with more than 10 million monthly organic users</p>
+    <ul style="margin-bottom: 5px; margin-top: 5px; row-gap:2px">
+        <li>React lead of the mobile web front-end team</li>
+        <li>Developed and debugged features on React.js, Redux, Material UI, CSS and HTML</li>
+        <li>Conducted code reviews on github at the end of every sprint to make sure that up to date coding conventions are being followed</li>
+        <li>Improved Pakwheels’s average mobile web app page speed score by 53.8% by optimizing page load time, initial viewport load time, FCP and LCP score, refining API structures, server side rendering and more</li>
+        <li>Implemented modular css to reduce size of unused css</li>
+    </ul>
 
 
     
