@@ -51,7 +51,7 @@ permalink: /professionalExperience/
         <li>Developed and debugged features on React.js, Redux, Material UI, CSS and HTML</li>
         <li>Conducted code reviews on github at the end of every sprint to make sure that up to date coding conventions are being followed</li>
         <li>Improved Pakwheels’s average mobile web app page speed score by 53.8% by optimizing page load time, initial viewport load time, FCP and LCP score, refining API structures, server side rendering and more</li>
-        <li>Implemented modular css to reduce size of unused css</li>
+        <!-- <li>Implemented modular css to reduce size of unused css</li> -->
     </ul>
 
 
