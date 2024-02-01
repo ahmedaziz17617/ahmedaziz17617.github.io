@@ -46,6 +46,7 @@ permalink: /professionalExperience/
     <a href="https://www.pakwheels.com/">PakWheels.com</a>
     <p style="margin-bottom: 5px; margin-top: 5px">PakWheels.com is the largest online marketplace for automobiles in Pakistan. It facilitates the user in the buying and selling process by providing effective tools such as car inspection, sell it for me and more. This is one of the largest startups in Pakistan with more than 10 million monthly organic users</p>
     <ul style="margin-bottom: 5px; margin-top: 5px; row-gap:2px">
+        <b>Leadership</b>
         <li>React lead of the mobile web front-end team</li>
         <li>Developed and debugged features on React.js, Redux, Material UI, CSS and HTML</li>
         <li>Conducted code reviews on github at the end of every sprint to make sure that up to date coding conventions are being followed</li>
