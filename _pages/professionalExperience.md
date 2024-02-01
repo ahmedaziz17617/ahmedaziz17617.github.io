@@ -23,7 +23,7 @@ permalink: /professionalExperience/
         <li>Reduced crash rate by deploying Sentry to monitor and reduce bug occurrences</li>
         <li>Implemented weekly code and peer reviews by the entire team to increase resource engagement and ownership</li>
         <li>Developed the backend on Nest JS TypeOrm</li>
-        <li>Implemented the app architecture using the following AWS tools: Amplify, Cloudfront, S3, Elastic Beanstalk, EC2, load balancer, redis server, open source, lambda and cloud watch</li>
+        <!-- <li>Implemented the app architecture using the following AWS tools: Amplify, Cloudfront, S3, Elastic Beanstalk, EC2, load balancer, redis server, open source, lambda and cloud watch</li> -->
     </ul>
     <a href="https://main.d2ijbpdrqizohe.amplifyapp.com/">Market Valuation Tool</a>
     <p style="margin-bottom: 5px; margin-top: 5px"></p>
@@ -32,7 +32,7 @@ permalink: /professionalExperience/
         <li>Optimized code quality by using Airbnb Eslint rules with pre-commit scripts</li>
         <li>Used material UI to implement a fully responsive design with integrated light and dark mode</li>
     </ul>
-    <p >Intellia LLM</p>
+    <p>Intellia LLM</p>
     <p style="margin-bottom: 5px; margin-top: 5px">Fine-tuned and trained in house LLM to assist analysts in their day to day tasks such as market valuation, research and general in house company management</p>
     <ul style="margin-bottom: 5px; margin-top: 5px; row-gap:2px">
         <li>We use Luna uncensored from Llama</li>
@@ -51,7 +51,7 @@ permalink: /professionalExperience/
         <li>Developed and debugged features on React.js, Redux, Material UI, CSS and HTML</li>
         <li>Conducted code reviews on github at the end of every sprint to make sure that up to date coding conventions are being followed</li>
         <li>Improved Pakwheels’s average mobile web app page speed score by 53.8% by optimizing page load time, initial viewport load time, FCP and LCP score, refining API structures, server side rendering and more</li>
-        <!-- <li>Implemented modular css to reduce size of unused css</li> -->
+        <li>Implemented modular css to reduce size of unused css</li>
     </ul>
 
 
