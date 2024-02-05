@@ -40,7 +40,7 @@ permalink: /professionalExperience/
         <li style="margin-bottom: 0px; margin-top: 0px;">Deployed on AWS Amplify</li>
         <li style="margin-bottom: 0px; margin-top: 0px;">Implemented pre-push linting checks to maintain code quality</li>
     </ul>
-    <p>Intellia LLM</p>
+    <p style="margin-bottom: 5px; margin-top: 5px;">Intellia LLM</p>
     <p style="margin-bottom: 5px; margin-top: 5px; font-size: 15px; color:grey;">Fine-tuned and trained an in house LLM to assist analysts in their day to day tasks such as market valuation, research and general in house company management.</p>
     <ul style="margin-bottom: 5px; margin-top: 5px; row-gap:2px">
         <li style="margin-bottom: 0px; margin-top: 0px;">We use Luna uncensored from Llama</li>
