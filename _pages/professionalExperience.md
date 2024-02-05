@@ -44,7 +44,7 @@ permalink: /professionalExperience/
         <li>The model is fine tuned on internal use cases such as summary generation.</li>
         <li>All of the above essentially allows the model to function as an AI analyst that helps the user throughout the portal in different use cases.</li>
     </ul>
-     <div style="margin-bottom: 5px display: flex; align-items: center;">
+     <div style="margin-bottom: 5px; display: flex; align-items: center;">
         <img src='/images/pw-favicon.png' width='20' height='20' style="margin-right: 5px;">
         <h1>Pakwheels.com</h1>
     </div>
