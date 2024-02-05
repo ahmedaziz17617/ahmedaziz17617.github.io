@@ -18,7 +18,7 @@ permalink: /professionalExperience/
         <h1 style="margin-bottom: 0px;">Intellia Advisors</h1>
     </div>
     <p style="margin-bottom: 0px; margin-top: 0px;"><em>Senior Software Engineer</em></p>
-    <a href="https://www.intellia.io/">Intellia.io</a>
+    <a rel="noopener noreferrer" href="https://www.intellia.io/">Intellia.io</a>
     <p style="margin-bottom: 5px; margin-top: 5px; font-size: 15px; color:grey;">Intellia.io is a multi-layered application consisting of several components made for Intellia Advisors. Intellia is constantly engaged in complex and multiple projects with high stake clients. In order to improve work quality and remove bottlenecks in project delivery, Intellia.io was made. Intellia.io acts as a CRM and a management system that also automates several tasks from project onboarding to delivery.</p>
     <ul style="margin-bottom: 5px; margin-top: 5px; row-gap:2px">
         <li style="margin-bottom: 0px; margin-top: 0px;">Developed the frontend from scratch using Next JS + TypeScript, Redux, Chakra UI, CSS and HTML</li>
@@ -31,7 +31,7 @@ permalink: /professionalExperience/
         <li style="margin-bottom: 0px; margin-top: 0px;">Implemented more than 60 packages such as axios, Highcharts, googleRecaptcha and more</li>
          <li style="margin-bottom: 0px; margin-top: 0px;">Used mixpanel to track analytics for site monitoring and observe user behaviour</li>
     </ul>
-    <a style="margin-bottom: 5px; margin-top: 5px;" href="https://main.d2ijbpdrqizohe.amplifyapp.com/">Market Valuation Tool</a>
+    <a rel="noopener noreferrer" style="margin-bottom: 5px; margin-top: 5px;" href="https://main.d2ijbpdrqizohe.amplifyapp.com/">Market Valuation Tool</a>
     <p style="margin-bottom: 5px; margin-top: 5px; font-size: 15px; color:grey;">This is a micro-site which automates the process of calculating market valutaions based on the input you provide. Hence saving resource time and improving team productivity</p>
     <ul style="margin-bottom: 5px; margin-top: 5px; row-gap:2px">
         <li style="margin-bottom: 0px; margin-top: 0px;">Implemented the micro-site using the following tech-stack: Next JS + TypeScript, Redux Tool kit, Nest JS + Type ORM, Material UI, CSS and HTML</li>
@@ -54,7 +54,7 @@ permalink: /professionalExperience/
         <h1 style="margin-bottom: 0px;">Pakwheels.com</h1>
     </div>
     <p style="margin-bottom: 0px; margin-top: 0px;"><em>Software Engineer, React Team Lead</em></p>
-    <a href="https://www.pakwheels.com/">PakWheels.com</a>
+    <a rel="noopener noreferrer" href="https://www.pakwheels.com/">PakWheels.com</a>
     <p style="margin-bottom: 5px; margin-top: 5px; font-size: 15px; color:grey;">PakWheels.com is the largest online marketplace for automobiles in Pakistan. It facilitates the user in the buying and selling process by providing effective tools such as car inspection, sell it for me and more. This is one of the largest startups in Pakistan with more than 10 million monthly organic users</p>
     <ul style="margin-bottom: 5px; margin-top: 5px; row-gap:2px">
         <li style="margin-bottom: 0px; margin-top: 0px;">React lead of the mobile web front-end team</li>
