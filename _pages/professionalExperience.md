@@ -13,7 +13,10 @@ permalink: /professionalExperience/
 </style>
 
 <div class="page-content">
-    <h1 style="margin-bottom: 5px;">Intellia Advisors</h1>
+    <div style="margin-bottom: 5px; display: flex; align-items: center;">
+        <img src='/images/intellia-fav.svg' width='20' height='20' style="margin-right: 5px;">
+        <h1>Intellia Advisors</h1>
+    </div>
     <p style="margin-bottom: 0px; margin-top: 0px;"><em>Senior Software Engineer</em></p>
     <a href="https://www.intellia.io/">Intellia.io</a>
     <p style="margin-bottom: 5px; margin-top: 5px">Intellia.io is a multi-layered application consisting of several components made for Intellia Advisors. To explain in a brief, there are different users: admin, client and analyst. Each has their own portal. Intellia.io acts as a CRM and a helping hand to automate several tasks throught the delivery of projects; from onboarding to delivery.</p>
@@ -41,7 +44,10 @@ permalink: /professionalExperience/
         <li>The model is fine tuned on internal use cases such as summary generation.</li>
         <li>All of the above essentially allows the model to function as an AI analyst that helps the user throughout the portal in different use cases.</li>
     </ul>
-    <h1 style="margin-bottom: 5px;">Pakwheels.com</h1>
+     <div style="margin-bottom: 5px display: flex; align-items: center;">
+        <img src='/images/pw-favicon.png' width='20' height='20' style="margin-right: 5px;">
+        <h1>Pakwheels.com</h1>
+    </div>
     <p style="margin-bottom: 0px; margin-top: 0px;"><em>Software Engineer</em></p>
     <a href="https://www.pakwheels.com/">PakWheels.com</a>
     <p style="margin-bottom: 5px; margin-top: 5px">PakWheels.com is the largest online marketplace for automobiles in Pakistan. It facilitates the user in the buying and selling process by providing effective tools such as car inspection, sell it for me and more. This is one of the largest startups in Pakistan with more than 10 million monthly organic users</p>
