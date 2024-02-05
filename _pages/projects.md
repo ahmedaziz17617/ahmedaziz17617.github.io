@@ -15,9 +15,10 @@ permalink: /projects/
 <div class="page-content">
     <h1 style="margin-bottom: 5px;">Relision</h1>
     <a href="https://relision.com/">Relision</a>
-    <p style="margin-bottom: 5px; margin-top: 5px">Relision.com is a CRM portal for a software services agency in Lithuania.</p>
-    <p style="margin-bottom: 5px; margin-top: 5px; color: grey;"><em>WordPress, Elementor, Php, SEO(keyword research, schema optimization, page load time and online marketing)</em></p>
-    <h1 style="margin-bottom: 5px;">Toptis</h1>
+    <p style="color: grey;"><em>WordPress, Elementor, Php, SEO(keyword research, schema optimization, page load time and online marketing)</em></p>
+    <p >Relision.com is a CRM portal for a software services agency in Lithuania.</p>
+    <img src='/images/relision.png' width='500' height='300'>
+    <h1 style="margin-bottom: 5px; margin-top: 5px;">Toptis</h1>
     <a href="https://toptis.lt/">Toptis</a>
     <p style="margin-bottom: 5px; margin-top: 5px">Toptis is a multifunctunal website that connects Toptis, a leading car service in Lithuania, with their customers and brings their entire service online</p>
     <p style="margin-bottom: 5px; margin-top: 5px; color: grey;"><em>WordPress, Php, SEO(keyword research, schema optimization, page load time and online marketing)</em></p> 
