@@ -14,24 +14,24 @@ permalink: /professionalExperience/
 
 <div class="page-content">
     <div style="margin-bottom: 5px; display: flex; align-items: center;">
-        <img src='/images/intellia-fav.svg' width='100' style="margin-right: 5px;">
+        <img src='/images/intellia-fav.svg' width='50' style="margin-right: 5px;">
         <h1 style="margin-bottom: 0px;">Intellia Advisors</h1>
     </div>
     <p style="margin-bottom: 0px; margin-top: 0px;"><em>Senior Software Engineer</em></p>
     <a href="https://www.intellia.io/">Intellia.io</a>
-    <p style="margin-bottom: 5px; margin-top: 5px">Intellia.io is a multi-layered application consisting of several components made for Intellia Advisors. Intellia is constantly engaged in complex and multiple projects with high stake clients. In order to improve work quality and remove bottlenecks in project delivery, Intellia.io was made. Intellia.io acts as a CRM and a management system that also automates several tasks from project onboarding to delivery.</p>
+    <p style="margin-bottom: 5px; margin-top: 5px; font-size: 14px;">Intellia.io is a multi-layered application consisting of several components made for Intellia Advisors. Intellia is constantly engaged in complex and multiple projects with high stake clients. In order to improve work quality and remove bottlenecks in project delivery, Intellia.io was made. Intellia.io acts as a CRM and a management system that also automates several tasks from project onboarding to delivery.</p>
     <ul style="margin-bottom: 5px; margin-top: 5px; row-gap:2px">
-        <li>Developed the frontend from scratch using Next JS + TypeScript, Redux, Chakra UI, CSS and HTML</li>
-        <li>Developed the backend on Nest JS TypeOrm</li>
-        <li>Implemented the app architecture using the following AWS tools: Amplify, Cloudfront, S3, Elastic Beanstalk, EC2, load balancer, redis server, open source, lambda and cloud watch</li>
-        <li>Improved coding conventions by setting up pre-push Eslint checks</li>
-        <li>Reduced crash rate by deploying Sentry to monitor and reduce bug occurrences</li>
-        <li>Implemented weekly code and peer reviews by the entire team to increase resource engagement and ownership</li>
-        <li>Laid out coding conventions and engineering process for resources to follow such as the implementation of a testing environment for QA, dev for developers and prod for production</li>
-        <li>Implemented more than 60 packages such as axios, Highcharts, googleRecaptcha and more</li>
-         <li>Used mixpanel to track analytics for site monitoring and observe user behaviour</li>
+        <li style="margin-bottom: 0px; margin-top: 0px;">Developed the frontend from scratch using Next JS + TypeScript, Redux, Chakra UI, CSS and HTML</li>
+        <li style="margin-bottom: 0px; margin-top: 0px;">Developed the backend on Nest JS TypeOrm</li>
+        <li style="margin-bottom: 0px; margin-top: 0px;">Implemented the app architecture using the following AWS tools: Amplify, Cloudfront, S3, Elastic Beanstalk, EC2, load balancer, redis server, open source, lambda and cloud watch</li>
+        <li style="margin-bottom: 0px; margin-top: 0px;">Improved coding conventions by setting up pre-push Eslint checks</li>
+        <li style="margin-bottom: 0px; margin-top: 0px;">Reduced crash rate by deploying Sentry to monitor and reduce bug occurrences</li>
+        <li style="margin-bottom: 0px; margin-top: 0px;">Implemented weekly code and peer reviews by the entire team to increase resource engagement and ownership</li>
+        <li style="margin-bottom: 0px; margin-top: 0px;">Laid out coding conventions and engineering process for resources to follow such as the implementation of a testing environment for QA, dev for developers and prod for production</li>
+        <li style="margin-bottom: 0px; margin-top: 0px;">Implemented more than 60 packages such as axios, Highcharts, googleRecaptcha and more</li>
+         <li style="margin-bottom: 0px; margin-top: 0px;">Used mixpanel to track analytics for site monitoring and observe user behaviour</li>
     </ul>
-    <a href="https://main.d2ijbpdrqizohe.amplifyapp.com/">Market Valuation Tool</a>
+    <a style="" href="https://main.d2ijbpdrqizohe.amplifyapp.com/">Market Valuation Tool</a>
     <p style="margin-bottom: 5px; margin-top: 5px">This is a micro-site which automates the process of calculating market valutaions based on the input you provide. Hence saving resource time and improving team productivity</p>
     <ul style="margin-bottom: 5px; margin-top: 5px; row-gap:2px">
         <li>Implemented the micro-site using the following tech-stack: Next JS + TypeScript, Redux Tool kit, Nest JS + Type ORM, Material UI, CSS and HTML</li>
