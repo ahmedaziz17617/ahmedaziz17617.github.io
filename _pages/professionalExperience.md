@@ -15,7 +15,7 @@ permalink: /professionalExperience/
 <div class="page-content">
     <div style="margin-bottom: 5px; display: flex; align-items: center;">
         <img src='/images/intellia-fav.svg' width='20' height='150' style="margin-right: 5px;">
-        <h1>Intellia Advisors</h1>
+        <h1 style="margin-bottom: 0px;">Intellia Advisors</h1>
     </div>
     <p style="margin-bottom: 0px; margin-top: 0px;"><em>Senior Software Engineer</em></p>
     <a href="https://www.intellia.io/">Intellia.io</a>
@@ -46,7 +46,7 @@ permalink: /professionalExperience/
     </ul>
      <div style="margin-bottom: 5px; display: flex; align-items: center;">
         <img src='/images/pw-favicon.png' width='20' height='20' style="margin-right: 5px;">
-        <h1>Pakwheels.com</h1>
+        <h1 style="margin-bottom: 0px;">Pakwheels.com</h1>
     </div>
     <p style="margin-bottom: 0px; margin-top: 0px;"><em>Software Engineer</em></p>
     <a href="https://www.pakwheels.com/">PakWheels.com</a>
