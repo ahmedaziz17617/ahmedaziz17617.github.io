@@ -19,24 +19,29 @@ permalink: /professionalExperience/
     </div>
     <p style="margin-bottom: 0px; margin-top: 0px;"><em>Senior Software Engineer</em></p>
     <a href="https://www.intellia.io/">Intellia.io</a>
-    <p style="margin-bottom: 5px; margin-top: 5px">Intellia.io is a multi-layered application consisting of several components made for Intellia Advisors. To explain in a brief, there are different users: admin, client and analyst. Each has their own portal. Intellia.io acts as a CRM and a helping hand to automate several tasks throught the delivery of projects; from onboarding to delivery.</p>
+    <p style="margin-bottom: 5px; margin-top: 5px">Intellia.io is a multi-layered application consisting of several components made for Intellia Advisors. Intellia is constantly engaged in complex and multiple projects with high stake clients. In order to improve work quality and remove bottlenecks in project delivery, Intellia.io was made. Intellia.io acts as a CRM and a management system that also automates several tasks from project onboarding to delivery.</p>
     <ul style="margin-bottom: 5px; margin-top: 5px; row-gap:2px">
-        <li>Developed the frontend from scratch using Next JS, Flux, Chakra UI, CSS and HTML</li>
+        <li>Developed the frontend from scratch using Next JS + TypeScript, Redux, Chakra UI, CSS and HTML</li>
+        <li>Developed the backend on Nest JS TypeOrm</li>
+        <li>Implemented the app architecture using the following AWS tools: Amplify, Cloudfront, S3, Elastic Beanstalk, EC2, load balancer, redis server, open source, lambda and cloud watch</li>
         <li>Improved coding conventions by setting up pre-push Eslint checks</li>
         <li>Reduced crash rate by deploying Sentry to monitor and reduce bug occurrences</li>
         <li>Implemented weekly code and peer reviews by the entire team to increase resource engagement and ownership</li>
-        <li>Developed the backend on Nest JS TypeOrm</li>
-        <!-- <li>Implemented the app architecture using the following AWS tools: Amplify, Cloudfront, S3, Elastic Beanstalk, EC2, load balancer, redis server, open source, lambda and cloud watch</li> -->
+        <li>Laid out coding conventions and engineering process for resources to follow such as the implementation of a testing environment for QA, dev for developers and prod for production</li>
+        <li>Implemented more than 60 packages such as axios, Highcharts, googleRecaptcha and more</li>
+         <li>Used mixpanel to track analytics for site monitoring and observe user behaviour</li>
     </ul>
     <a href="https://main.d2ijbpdrqizohe.amplifyapp.com/">Market Valuation Tool</a>
-    <p style="margin-bottom: 5px; margin-top: 5px"></p>
+    <p style="margin-bottom: 5px; margin-top: 5px">This is a micro-site which automates the process of calculating market valutaions based on the input you provide. Hence saving resource time and improving team productivity</p>
     <ul style="margin-bottom: 5px; margin-top: 5px; row-gap:2px">
         <li>Implemented the micro-site using the following tech-stack: Next JS + TypeScript, Redux Tool kit, Nest JS + Type ORM, Material UI, CSS and HTML</li>
         <li>Optimized code quality by using Airbnb Eslint rules with pre-commit scripts</li>
-        <li>Used material UI to implement a fully responsive design with integrated light and dark mode</li>
+        <li>Used material UI and media queries to implement a fully responsive design with integrated light and dark mode</li>
+        <li>Deployed on AWS Amplify</li>
+        <li>Implemented pre-push linting checks to maintain code quality</li>
     </ul>
     <p>Intellia LLM</p>
-    <p style="margin-bottom: 5px; margin-top: 5px">Fine-tuned and trained in house LLM to assist analysts in their day to day tasks such as market valuation, research and general in house company management</p>
+    <p style="margin-bottom: 5px; margin-top: 5px">Fine-tuned and trained an in house LLM to assist analysts in their day to day tasks such as market valuation, research and general in house company management.</p>
     <ul style="margin-bottom: 5px; margin-top: 5px; row-gap:2px">
         <li>We use Luna uncensored from Llama</li>
         <li>The model is connected with Chroma DB which is loaded with LangChain</li>
@@ -48,7 +53,7 @@ permalink: /professionalExperience/
         <img src='/images/pw-favicon.png' width='20' height='20' style="margin-right: 5px;">
         <h1 style="margin-bottom: 0px;">Pakwheels.com</h1>
     </div>
-    <p style="margin-bottom: 0px; margin-top: 0px;"><em>Software Engineer</em></p>
+    <p style="margin-bottom: 0px; margin-top: 0px;"><em>Software Engineer, React Team Lead</em></p>
     <a href="https://www.pakwheels.com/">PakWheels.com</a>
     <p style="margin-bottom: 5px; margin-top: 5px">PakWheels.com is the largest online marketplace for automobiles in Pakistan. It facilitates the user in the buying and selling process by providing effective tools such as car inspection, sell it for me and more. This is one of the largest startups in Pakistan with more than 10 million monthly organic users</p>
     <ul style="margin-bottom: 5px; margin-top: 5px; row-gap:2px">
