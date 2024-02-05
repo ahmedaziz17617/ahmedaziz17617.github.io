@@ -40,8 +40,8 @@ permalink: /projects/
     <p style="margin-bottom: 2px; margin-top: 2px; color: grey;"><em>Invision Studio, Unity, Research</em></p> 
     <p style="margin-bottom: 5px; margin-top: 2px;"> Fit LUMS was a UI/UX project which consisted of prototype app design using Invision Studio, game building on Unity and an in depth psychological research to identify causes of mental health illness in my university, Lahore University of Management Sciences, and then use a gaming app prototype to motivate students to practice meditation and other theraputic exercises to counter this epidemic</p>
     <div style="display: flex; gap: 5px;">
-        <img src='/images/hci3.jpeg' width='500' height='300'>
-        <img src='/images/hci2.jpeg' width='500' height='300'>
-        <img src='/images/hci1.jpeg' width='500' height='300'>
+        <img src='/images/hci3.jpeg' width='30%' height='300'>
+        <img src='/images/hci2.jpeg' width='30%' height='300'>
+        <img src='/images/hci1.jpeg' width='30%' height='300'>
     </div>
 </div>
