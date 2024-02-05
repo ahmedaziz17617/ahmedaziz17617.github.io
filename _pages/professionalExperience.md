@@ -44,7 +44,7 @@ permalink: /professionalExperience/
         <li>The model is fine tuned on internal use cases such as summary generation.</li>
         <li>All of the above essentially allows the model to function as an AI analyst that helps the user throughout the portal in different use cases.</li>
     </ul>
-     <div style="margin-bottom: 5px; display: flex; align-items: center;">
+    <div style="margin-bottom: 5px; display: flex; align-items: center;">
         <img src='/images/pw-favicon.png' width='20' height='20' style="margin-right: 5px;">
         <h1 style="margin-bottom: 0px;">Pakwheels.com</h1>
     </div>
@@ -58,7 +58,10 @@ permalink: /professionalExperience/
         <li>Improved Pakwheels’s average mobile web app page speed score by 53.8% by optimizing page load time, initial viewport load time, FCP and LCP score, refining API structures, server side rendering and more</li>
         <li>Implemented modular css to reduce size of unused css</li>
     </ul>
-    <h1 style="margin-bottom: 5px;">Lahore University of Management Sciences</h1>
+    <div style="margin-bottom: 5px; display: flex; align-items: center;">
+        <img src='/images/lums.png' width='20' height='20' style="margin-right: 5px;">
+        <h1 style="margin-bottom: 0px;">Lahore University of Management Sciences</h1>
+    </div>
     <p style="margin-bottom: 0px; margin-top: 0px;"><em>Teaching Assistant for Writing and Communication</em></p>
     <ul style="margin-bottom: 5px; margin-top: 5px; row-gap:2px">
         <li>Mentored students in improving their rhetoric and communication skills</li>
