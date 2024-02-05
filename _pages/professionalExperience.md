@@ -14,7 +14,7 @@ permalink: /professionalExperience/
 
 <div class="page-content">
     <div style="margin-bottom: 5px; display: flex; align-items: center;">
-        <img src='/images/intellia-fav.svg' width='20' height='150' style="margin-right: 5px;">
+        <img src='/images/intellia-fav.svg' style="margin-right: 5px;">
         <h1 style="margin-bottom: 0px;">Intellia Advisors</h1>
     </div>
     <p style="margin-bottom: 0px; margin-top: 0px;"><em>Senior Software Engineer</em></p>
