@@ -20,9 +20,12 @@ main:
 
   - title: "Projects"
     url: /projects/
+
+  - title: "Hobbies"
+    url: /hobbies/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
